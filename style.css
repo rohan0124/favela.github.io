@@ -49,6 +49,9 @@ button{
     transform: translateY(-50%);
     z-index: 2; 
 }
+h2{
+    color: brown;
+}
 
 .side-bar{
     width:50px;
